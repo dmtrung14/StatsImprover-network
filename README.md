@@ -13,6 +13,22 @@ Interact with Facebook posts to earn tokens and use tokens to earn more interact
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Contributors](#project-maintainers)
+## Features
+### Homepage of all currently Active Posts
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/60612625/194976358-64044226-c614-4aa3-b255-44cca19c6646.png"></img>
+  </kbd>
+</p>
+
+### Profile page directly linked to facebook account
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/60612625/194976412-d943fc48-ed34-4e3f-a615-98919e55ec81.gif"></img>
+  </kbd>
+</p>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60612625/194976412-d943fc48-ed34-4e3f-a615-98919e55ec81.gif)
+
 
 ## How to Use:
 Visit [the website](https://dmtrung14.github.io/mathinspiration), and click on the problem you want to solve.
