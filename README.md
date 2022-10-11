@@ -5,10 +5,10 @@ Interact with Facebook posts to earn tokens and use tokens to earn more interact
 This is an ongoing project, and this repository is barely an MVP. For security reasons, some features of the app is not available in the public repository.
 
 ## Table of Contents:
-- [Features](#how-to-use)
+- [Features](#features)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
-- [Contributors](#project-maintainers)
+- [Contributors](#contributors)
 ## Features
 ### Homepage of all currently Active Posts
 <p align="center">
@@ -34,10 +34,15 @@ This is an ongoing project, and this repository is barely an MVP. For security r
 
 ## Deployment:
 
-To deploy this repository you will only need `NodeJS` installed. Then type the following commands `git clone https://github.com/dmtrung14/StatsImprover-network/ && cd StatsImprover-network``\
-Run `npm install` to install all packages in your repository \
-`cd Stats_Improver` to move into the main folder \
-`npm start` to launch the project. Your website should now be running on `https://localhost:8443`. \
+To deploy this repository you will only need `NodeJS` installed. Then type the following commands 
+\
+`git clone https://github.com/dmtrung14/StatsImprover-network/ && cd StatsImprover-network` \
+
+Now that the repo is local:
+
+- Run `npm install` to install all packages in your repository 
+- `cd Stats_Improver` to move into the main folder 
+- `npm start` to launch the project. Your website should now be running on `https://localhost:8443`. 
 \
 While this is the easy method, your information will be stored on *our* MongoDB file (view our [Privacy Policy](https://www.iubenda.com/privacy-policy/43791086)). To customize your own project, 
 - Install mongoDB on your own PC
@@ -52,5 +57,5 @@ While this is the easy method, your information will be stored on *our* MongoDB 
 - Facebook Passport
 - Websocket
 - MongoDB
-## Contributiors:
+## Contributors:
 - Thanks to my dearest project partner Nguyen Ha Duy from École Polytechnique.
