@@ -39,7 +39,7 @@ To deploy this repository you will only need `NodeJS` installed. Then type the f
 \
 `git clone https://github.com/dmtrung14/StatsImprover-network/ && cd StatsImprover-network`.
 
-\
+
 
 Now that the repo is local:
 
