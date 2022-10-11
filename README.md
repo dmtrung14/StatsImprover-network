@@ -23,17 +23,14 @@ This is an ongoing project, and this repository is barely an MVP. For security r
 <img src="https://user-images.githubusercontent.com/60612625/194976412-d943fc48-ed34-4e3f-a615-98919e55ec81.gif"></img>
   </kbd>
 </p>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/60612625/194976412-d943fc48-ed34-4e3f-a615-98919e55ec81.gif)
 
+### Postnow Page
 
-## How to Use:
-Visit [the website](https://dmtrung14.github.io/mathinspiration), and click on the problem you want to solve.
-Inside, there will be ``accordions`` that cover the theory and the solution to the problem
-
-![image](https://user-images.githubusercontent.com/60612625/194203297-57490404-4338-486d-9c71-5133dfb05f4d.png)
-![image](https://user-images.githubusercontent.com/60612625/194203370-b6dc18fd-4641-4cbc-bb1f-8bc493efd34b.png)
-
-The ``toggle fullscreen`` button will lead you to the full screen Scratch game.
+<p align="center">
+  <kbd>
+<img src="https://user-images.githubusercontent.com/60612625/194976909-4862f57d-2d05-4edc-acfd-4151ce9ceab4.png"></img>
+  </kbd>
+</p>
 
 ## Deployment:
 
