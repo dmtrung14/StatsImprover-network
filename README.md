@@ -1,15 +1,16 @@
 # BigBrothers Network
 Interact with Facebook posts to earn tokens and use tokens to earn more interaction on Facebook posts
 
-## Disclaimer
+## Disclaimer:
 This is an ongoing project, and this repository is barely an MVP. For security reasons, some features of the app is not available in the public repository.
 
 ## Table of Contents:
 - [Features](#features)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
+- [Future Development](#future)
 - [Contributors](#contributors)
-## Features
+## Features:
 ### Homepage of all currently Active Posts
 <p align="center">
   <kbd>
@@ -57,5 +58,11 @@ While this is the easy method, your information will be stored on *our* MongoDB 
 - Facebook Passport
 - Websocket
 - MongoDB
+
+## Future Developments:
+- Addition: PayPal REST API to allow purchase of tokens and convert from tokens to money
+- Launching: deploy website to Firebase or AWS.
+- Amendment: allow for more interactions - comments and shares. 
+
 ## Contributors:
 - Thanks to my dearest project partner Nguyen Ha Duy from École Polytechnique.
