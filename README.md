@@ -1,12 +1,8 @@
 # BigBrothers Network
 Interact with Facebook posts to earn tokens and use tokens to earn more interaction on Facebook posts
-<p align="center">
-  <kbd>
-<img src="https://user-images.githubusercontent.com/60612625/194202511-d2566a85-fd45-4a8d-ad8a-baf60446ef5d.gif"></img>
-  </kbd>
-</p>
 
-
+## Disclaimer
+This is an ongoing project, and this repository is barely an MVP. For security reasons, some features of the app is not available in the public repository.
 
 ## Table of Contents:
 - [Features](#how-to-use)
