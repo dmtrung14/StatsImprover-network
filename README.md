@@ -34,15 +34,13 @@ This is an ongoing project, and this repository is barely an MVP. For security r
 
 ## Deployment:
 
-In order to deploy the website, you will need to have Jekyll installed on your computer. Jekyll is a very excellent static-web template builder. Full documentations on Jekyll can be found [here](https://jekyllrb.com/docs/installation/windows/)
+To deploy this repository you will only need `NodeJS` installed. Then type the following commands `git clone https://github.com/dmtrung14/StatsImprover-network/ && cd StatsImprover-network``\
+Run `npm install` to install all packages in your repository \
+`cd Stats_Improver` to move into the main folder \
+`npm start` to launch the project. Your website should now be running on `https://localhost:8443`. \
+\
+While this is the easy method, your information will be stored on *our* MongoDB file
 
-To install Jekyll, we need to download and install a `Ruby+Devkit` version from [RubyInstaller Downloads](https://rubyinstaller.org/downloads/). Use default options for installation.
-
-After that, install Jekyll and Bundler using `cmd` by typing `gem install jekyll bundler`. Type `jekyll -v` to check the version of jekyll installed.
-
-This website is also hosted using github website. On how to create a github website with jekyll, I find [this video](https://www.youtube.com/watch?v=fqFjuX4VZmU) exceptionally helpful, and I personally followed Mike's instruction when I first started blogging.
-
-Briefly explained, you first have to go to your repository `Setting` on github, and change your `Page` settings to `Deploy from a branch`. (GitHub has made site deployment much easier recently), and configure the source in your `config.yml` file.
 
 ## Technologies Used:
 - JavaScript
