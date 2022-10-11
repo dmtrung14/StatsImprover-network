@@ -39,7 +39,10 @@ Run `npm install` to install all packages in your repository \
 `cd Stats_Improver` to move into the main folder \
 `npm start` to launch the project. Your website should now be running on `https://localhost:8443`. \
 \
-While this is the easy method, your information will be stored on *our* MongoDB file (view our [Privacy Policy](https://www.iubenda.com/privacy-policy/43791086))
+While this is the easy method, your information will be stored on *our* MongoDB file (view our [Privacy Policy](https://www.iubenda.com/privacy-policy/43791086)). To customize your own project, 
+- Install mongoDB on your own PC
+- Create your own app using Meta for Developers platform
+- In `Stats_Improver/.env`, replace APPID and MONGO_SERVER with your APPID and MONGO_SERVER.
 
 
 ## Technologies Used:
